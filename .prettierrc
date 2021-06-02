@@ -1,0 +1,8 @@
+{
+  "arrowParens": "avoid",
+  "endOfLine": "lf",
+  "semi": false,
+  "singleQuote": true,
+  "useTabs": true,
+  "insert_final_newline": true
+}
